@@ -6,6 +6,6 @@ def subtract(a,b):
   print("Result",a-b)
 
 
-def divide(dividend, divisor): #Dvision function, by Colin
+def divide(dividend, divisor): #Division function, by Colin
   result = str(dividend/divisor)
   print(f"Result: {result}")
